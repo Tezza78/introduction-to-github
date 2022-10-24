@@ -226,7 +226,7 @@ Check out these resources to learn more or get involved:
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
 
-</details>
+
 
 <!--
   <<< Author notes: Footer >>>
@@ -241,4 +241,4 @@ Get help: [Post in our discussion board](https://github.com/skills/.github/discu
 
 :smirk:
 
-__underscore__
+__underscore
